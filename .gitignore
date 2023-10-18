@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleApp1/obj
+/.vs/ProjectEvaluation
+/.vs/LoopExercises/v17/.suo
+/.vs/LoopExercises/FileContentIndex/82e70f57-46b9-4a00-8d9b-93ff678df454.vsidx
+/.vs/LoopExercises/DesignTimeBuild/.dtbcache.v2

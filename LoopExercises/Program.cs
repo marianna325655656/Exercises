@@ -25,3 +25,18 @@ for (int i = 1; i <= 100; i++)
 
 }
 Console.WriteLine("sum: " + sum2);
+
+int  SumOfNumbers (int minNumber, int maxNumber) 
+{
+    int sum = 0;    
+    for (int i= minNumber; i <= maxNumber; i++) 
+    {
+        sum = sum + i;
+    }
+    return sum;
+}
+
+
+var sum3 = SumOfNumbers(1, 100);
+
+Console.WriteLine("sum3: " + sum3);

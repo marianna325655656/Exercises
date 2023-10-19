@@ -1,0 +1,15 @@
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\bin\Debug\net6.0\LoopExercises.exe
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\bin\Debug\net6.0\LoopExercises.deps.json
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\bin\Debug\net6.0\LoopExercises.runtimeconfig.json
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\bin\Debug\net6.0\LoopExercises.dll
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\bin\Debug\net6.0\LoopExercises.pdb
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.csproj.AssemblyReference.cache
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.AssemblyInfoInputs.cache
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.AssemblyInfo.cs
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.csproj.CoreCompileInputs.cache
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.dll
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\refint\LoopExercises.dll
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.pdb
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\LoopExercises.genruntimeconfig.cache
+C:\Users\Marianna\source\repos\LoopExercises\LoopExercises\obj\Debug\net6.0\ref\LoopExercises.dll
